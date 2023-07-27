@@ -13,3 +13,6 @@ $(call inherit-product, vendor/xiaomi/nuwa/nuwa-vendor.mk)
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
+
+# Kernel Binary
+KERNEL_PREBUILT_DIR := device/xiaomi/nuwa-kernel
