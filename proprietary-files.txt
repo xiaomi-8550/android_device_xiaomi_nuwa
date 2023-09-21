@@ -1,0 +1,44 @@
+# Unpinned blobs from nuwa_global-user 13 TKQ1.220905.001 V14.0.13.0.TMBMIXM release-keys
+
+# Camera
+odm/lib64/camera/com.qti.actuator.nuwa_ofilm_s5kjn1_dw9800v_tele_actuator.so
+odm/lib64/camera/com.qti.actuator.nuwa_ofilm_s5kjn1_dw9800v_ultra_actuator.so
+odm/lib64/camera/com.qti.actuator.nuwa_semco_imx989_ak7316_wide_actuator.so
+odm/lib64/camera/com.qti.eeprom.nuwa_ofilm_s5kjn1_gt24p128f_ultra_eeprom.so
+odm/lib64/camera/com.qti.eeprom.nuwa_ofilm_s5kjn1_p24c128f_tele_eeprom.so
+odm/lib64/camera/com.qti.eeprom.nuwa_semco_imx989_p24c128f_wide_eeprom.so
+odm/lib64/camera/com.qti.eeprom.nuwa_sunny_ov32c_gt24p64e_front_eeprom.so
+odm/lib64/camera/com.qti.ois.nuwa_tele_bu24618_ois.so
+odm/lib64/camera/com.qti.ois.nuwa_wide_bu24618_ois.so
+odm/lib64/camera/com.qti.sensor.nuwa_ofilm_s5kjn1_tele.so
+odm/lib64/camera/com.qti.sensor.nuwa_ofilm_s5kjn1_ultra.so
+odm/lib64/camera/com.qti.sensor.nuwa_semco_imx989_wide.so
+odm/lib64/camera/com.qti.sensor.nuwa_sunny_ov32c_front.so
+odm/lib64/camera/com.qti.sensormodule.nuwa_ofilm_s5kjn1_tele.bin
+odm/lib64/camera/com.qti.sensormodule.nuwa_ofilm_s5kjn1_ultra.bin
+odm/lib64/camera/com.qti.sensormodule.nuwa_semco_imx989_wide.bin
+odm/lib64/camera/com.qti.sensormodule.nuwa_sunny_ov32c_front.bin
+odm/lib64/camera/com.qti.tuned.nuwa_ofilm_s5kjn1_tele.bin
+odm/lib64/camera/com.qti.tuned.nuwa_ofilm_s5kjn1_ultra.bin
+odm/lib64/camera/com.qti.tuned.nuwa_semco_imx989_wide.bin
+odm/lib64/camera/com.qti.tuned.nuwa_sunny_ov32c_front.bin
+odm/lib64/camera/com.qti.tuned.nuwa_sunny_ov32c_front_global.bin
+
+# Camera (Firmware)
+odm/firmware/nuwa_tele_bu24618_ois.coeff
+odm/firmware/nuwa_tele_bu24618_ois.mem
+odm/firmware/nuwa_tele_bu24618_ois.prog
+odm/firmware/nuwa_wide_bu24618_ois.coeff
+odm/firmware/nuwa_wide_bu24618_ois.mem
+odm/firmware/nuwa_wide_bu24618_ois.prog
+
+# Sensors
+odm/etc/sensors/config/sm8550_bmp5_0.json
+odm/etc/sensors/config/sm8550_vl53l1_tof_0.json
+odm/etc/sensors/config/vl53l1_tof_0.json
+
+# TouchFeature
+odm/bin/touch_raw
+odm/bin/touch_report
+odm/bin/toucheventcheck
+odm/bin/touchsensor
