@@ -6,7 +6,7 @@
 
 include device/xiaomi/fuxi/BoardConfig.mk
 
-DEVICE_PATH := device/xiaomi/nuwa
+#DEVICE_PATH := device/xiaomi/nuwa
 KERNEL_PREBUILT_DIR := device/xiaomi/nuwa-kernel
 
 # Display
