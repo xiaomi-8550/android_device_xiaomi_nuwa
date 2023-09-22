@@ -1,5 +1,9 @@
 # Unpinned blobs from nuwa_global-user 13 TKQ1.220905.001 V14.0.13.0.TMBMIXM release-keys
 
+# ACDB
+odm/etc/acdbdata/Forte/Forte_acdb_cal.acdb
+odm/etc/acdbdata/Forte/Forte_workspaceFileXml.qwsp
+
 # Camera
 odm/lib64/camera/com.qti.actuator.nuwa_ofilm_s5kjn1_dw9800v_tele_actuator.so
 odm/lib64/camera/com.qti.actuator.nuwa_ofilm_s5kjn1_dw9800v_ultra_actuator.so
@@ -31,6 +35,13 @@ odm/firmware/nuwa_tele_bu24618_ois.prog
 odm/firmware/nuwa_wide_bu24618_ois.coeff
 odm/firmware/nuwa_wide_bu24618_ois.mem
 odm/firmware/nuwa_wide_bu24618_ois.prog
+
+# Display (calibration)
+odm/etc/display/qdcm_calib_data_xiaomi_38_0c_0a_cmd_mode_dsc_dsi_panel.json
+odm/etc/mdss_dsi_m2_38_0c_0a_dsc_cmd_mi.xml
+
+# Display (Config)
+product/etc/displayconfig/display_id_4630947134992368259.xml:vendor/etc/displayconfig/display_id_4630947134992368259.xml
 
 # Sensors
 odm/etc/sensors/config/sm8550_bmp5_0.json
