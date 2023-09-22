@@ -49,7 +49,14 @@ odm/etc/sensors/config/sm8550_vl53l1_tof_0.json
 odm/etc/sensors/config/vl53l1_tof_0.json
 
 # TouchFeature
+odm/bin/hw/vendor.xiaomi.hw.touchfeature@1.0-service
 odm/bin/touch_raw
 odm/bin/touch_report
 odm/bin/toucheventcheck
 odm/bin/touchsensor
+odm/etc/init/vendor.xiaomi.hw.touchfeature@1.0-service.rc
+odm/etc/vintf/manifest/vendor.xiaomi.hw.touchfeature@1.0-service.xml
+odm/etc/init.panel_info.sh
+odm/lib64/libtensorflowlite_c.so
+odm/lib64/hw/vendor.xiaomi.hw.touchfeature@1.0-impl.so
+vendor/lib64/vendor.xiaomi.hw.touchfeature@1.0.so
