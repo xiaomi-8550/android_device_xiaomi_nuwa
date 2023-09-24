@@ -63,12 +63,46 @@ odm/firmware/nuwa_wide_bu24618_ois.coeff
 odm/firmware/nuwa_wide_bu24618_ois.mem
 odm/firmware/nuwa_wide_bu24618_ois.prog
 
-# Display (calibration)
+# Display (Calibration)
 odm/etc/display/qdcm_calib_data_xiaomi_38_0c_0a_cmd_mode_dsc_dsi_panel.json
 odm/etc/mdss_dsi_m2_38_0c_0a_dsc_cmd_mi.xml
 
 # Display (Config)
 product/etc/displayconfig/display_id_4630947134992368259.xml:vendor/etc/displayconfig/display_id_4630947134992368259.xml
+
+# Display (Displayfeature)
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/clstc/clstc_gc_0.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/clstc/clstc_igc_0.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/clstc/ClstcLut0.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/clstc/ClstcLutInfo.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/clstc/PicHDRLchIn.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/mi_gc_0.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/mi_gc_1.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/mi_gc_2.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/mi_gc_3.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_0.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_10.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_11.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_12.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_13.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_14.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_15.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_16.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_17.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_18.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_19.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_1.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_20.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_2.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_3.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_4.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_5.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_6.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_7.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_8.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLut_9.txt
+odm/etc/disp0/mdss_dsi_m2_38_0c_0a_dsc_cmd/miLutInfo.txt
+odm/etc/df_default.xml
 
 # Sensors
 odm/etc/sensors/config/sm8550_bmp5_0.json
