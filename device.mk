@@ -26,3 +26,7 @@ PRODUCT_PACKAGES += \
     NuwaSystemUI \
     NuwaWifiRes \
     NuwaWifiResMainline \
+
+# Sensors
+PRODUCT_COPY_FILES += \
+    frameworks/native/data/etc/android.hardware.sensor.barometer.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.sensor.barometer.xml
