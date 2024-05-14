@@ -16,3 +16,13 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Kernel Binary
 KERNEL_PREBUILT_DIR := device/xiaomi/nuwa-kernel
+
+# Overlays
+PRODUCT_PACKAGES += \
+    NuwaFrameworks \
+    NuwaSettings2210132C \
+    NuwaSettings2210132G \
+    NuwaSettingsProvider \
+    NuwaSystemUI \
+    NuwaWifiRes \
+    NuwaWifiResMainline \
